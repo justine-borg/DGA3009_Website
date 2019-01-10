@@ -102,8 +102,6 @@ display:none;
     font-family: 'Open Sans Condensed', sans-serif;
     color: gray;
     font-size: 20px;
-   
-
 }
 
 .my-contact3{
@@ -134,11 +132,10 @@ font-family: 'Open Sans Condensed', sans-serif;
    font-family: 'Open Sans Condensed', sans-serif;
    text-decoration: underline;
    }
+.my-spacer{
+    height: 100px;
+}
 
-   .my-bottom{
-       position: absolute;
-       bottom: 0;
-   }
    .my-pad{
        margin-top: 1.5rem;
    }
