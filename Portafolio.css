@@ -134,3 +134,20 @@ font-family: 'Open Sans Condensed', sans-serif;
    font-family: 'Open Sans Condensed', sans-serif;
    text-decoration: underline;
    }
+
+   .my-bottom{
+       position: absolute;
+       bottom: 0;
+   }
+   .my-pad{
+       margin-top: 1.5rem;
+   }
+   .my-bottomimage{
+       margin-bottom: 6rem;
+   }
+   @media only screen and (max-height:766px){
+       .my-pad{ 
+           margin-top:0;
+
+       }
+   }
